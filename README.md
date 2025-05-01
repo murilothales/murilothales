@@ -1,7 +1,6 @@
-<h1 align="center">Bem-vindo ao meu perfil 👋</h1>
+<h1 align="center">### <code>Bem vindo ao meu perfil 👋🏿</code></h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c7d5f8d2-b0ea-434d-b277-47f45fb53ceb" alt="Imagem de perfil estática" width="600"/>
+  <img src="https://github.com/user-attachments/assets/1d543f47-ae99-4ec6-837f-c362af0a3473" alt="Imagem de perfil estática" width="600"/>
 </p>
 
 ---
