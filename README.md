@@ -12,6 +12,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murilothales&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&title_color=00CFFF&text_color=E1E9F0&bg_color=00000000&hide_border=true" height="150" alt="languages graph" />
 </div>
 
+
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=murilothales&theme=dark&background=0d0d2b&ring=ff6ac1&fire=ffc6ff&currStreakLabel=9d4edd" alt="Streak Stats">
+</p>
+
 ---
 ## 🎬 Video Editor | 💻 Aspiring Programmer
 
