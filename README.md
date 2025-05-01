@@ -27,6 +27,13 @@ Hi, I'm a creative soul passionate about visual storytelling and clean design.
 I currently work as a **video editor** and am learning **web development** to bring my creative ideas to the digital world.  
 I love combining art and code to build meaningful and visually stunning projects.
 
+<div align="left">
+  <a href="https://instagram.com/_.muh19" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
+  </a>
+</div>
+
+###
 ---
 
 ### 🚀 Skills & Tools
@@ -36,13 +43,3 @@ I love combining art and code to build meaningful and visually stunning projects
 💻 Coding: HTML, CSS, JavaScript (in progress)
 🎨 Design: Photoshop, Canva, Figma
 📁 Workflow: Git, GitHub, Trello
-
----
-
-<div align="left">
-  <a href="https://instagram.com/_.muh19" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
-  </a>
-</div>
-
-###
