@@ -1,15 +1,10 @@
-<code><h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=450&lines=Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BF" alt="Typing SVG" /></code>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=450&lines=Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BF" alt="Typing SVG" />
 </h1>
 
-<div align="center">
+
   <img src="https://github.com/user-attachments/assets/1d543f47-ae99-4ec6-837f-c362af0a3473" alt="Animated Gif" width="600" style="border-radius: 12px;"/>
 </div>
-
----
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=murilothales&theme=transparent&background=00000000&hide_border=true&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF&sideLabels=E1E9F0&dates=E1E9F0&sideNums=E1E9F0" alt="Streak Stats" />
-
 
 ---
 <div align="center">
